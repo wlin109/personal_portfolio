@@ -7,7 +7,7 @@ const Sidebar = () => {
                 <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
                 <aside id="colorlib-aside" className="border js-fullheight">
                     <div className="text-center">
-                        <div className="author-img" style={{ backgroundImage: 'url(/images/about.jpg)' }} />
+                        <div className="author-img" style={{ backgroundImage: 'url(images/about.jpg)' }} />
                         <h1 id="colorlib-logo"><a href="index.html">William Lin</a></h1>
                         <div className="email"><i className="icon-mail"></i> lin.william369@gmail.com</div>
                         <div><i className="icon-phone"></i>(415) 432-8644 </div>
